@@ -1,18 +1,19 @@
-{
-  "id": "sample_plugin",
-  "name": "示例插件",
-  "summary": "展示第三方插件模板的最小结构。",
+  {
+  "id": "music_game_26",
+  "name": "音游（2.6）",
+  "summary": "识别 2.6 音游按键轨道并自动按下 F/J。",
   "version": "0.1.0",
   "versionCode": 1,
-  "defaultGroup": false,
+  "defaultGroup": true,
   "needNotify": false,
   "author": {
-    "name": "Your Name",
-    "url": "https://github.com/your-name"
+    "name": "A-nony-mous",
+    "url": "https://github.com/A-nony-mous"
   },
-  "homepage": "https://github.com/your-name/sample-plugin",
+  "homepage": "https://github.com/A-nony-mous/rhythm_game_v2.6_zzzod_plugin",
   "risk": [
-    "automation"
+    "automation",
+    "process"
   ],
   "compatibility": {
     "minAppVersion": "0.0.0",
