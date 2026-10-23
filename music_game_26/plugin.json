@@ -2,8 +2,8 @@
   "id": "music_game_26",
   "name": "音游（2.6）",
   "summary": "识别 2.6 音游按键轨道并自动按下 F/J。",
-  "version": "0.1.0",
-  "versionCode": 1,
+  "version": "1.1.0",
+  "versionCode": 2,
   "defaultGroup": true,
   "needNotify": false,
   "author": {
